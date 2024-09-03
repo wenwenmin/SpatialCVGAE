@@ -10,9 +10,9 @@ cudnn.benchmark = True
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
 
-from VGAE_GCN.adj import graph
-from VGAE_GCN.VGAE_model import VGAE
-from VGAE_GCN.utils import *
+from adj import graph
+from SpatialCVGAE import VGAE
+from utils import *
 
 def train_model(ann_data,
               input_dim,
