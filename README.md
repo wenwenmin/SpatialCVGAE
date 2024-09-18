@@ -1,5 +1,5 @@
 # SpatialCVGAE
-![image](https://github.com/JinyunNiu/SpatialCVGAE/blob/main/SpatialCVGAE_Overview.jpg)
+![image](https://github.com/wenwenmin/SpatialCVGAE/blob/main/SpatialCVGAE_Overview.jpg)
 ## News
 2024.09.18 SpatialCVGAE based on pyG (PyTorch Geometric) framework is availble at [SpatialCVGAE](https://github.com/wenwenmin/SpatialCVGAE/blob/main/SpatialCVGAE.py).
 ## Overview
