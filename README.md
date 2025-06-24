@@ -14,5 +14,15 @@ scanpy == 1.9.2
 scipy == 1.10.1
 sklearn == 1.3.1
 PyG == 2.3.1
-## Reference
-Niu, Jinyun, et al. "SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics Using VGAE." Interdisciplinary Sciences: Computational Life Sciences (2024): 1-22.
+## Citing
+<p>The corresponding BiBTeX citation are given below:</p>
+<div class="highlight-none"><div class="highlight"><pre>
+@article{niu2024spatialcvgae,
+  title={SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics Using VGAE},
+  author={Niu, Jinyun and Zhu, Fangfang and Fang, Donghai and Min, Wenwen},
+  journal={Interdisciplinary Sciences: Computational Life Sciences},
+  pages={1--22},
+  year={2024},
+  publisher={Springer}
+}
+</pre></div>
